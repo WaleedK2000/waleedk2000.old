@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://waleedk2000.github.io/categories/</loc>
+    <loc>https://waleedk2000.github.io/tags/about/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/page/about/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/tags/me/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
   </url><url>
     <loc>https://waleedk2000.github.io/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/page/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
   </url><url>
     <loc>https://waleedk2000.github.io/tags/</loc>
+    <lastmod>2022-12-09T15:18:44+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/tags/blog/</loc>
+    <lastmod>2022-12-09T15:14:51+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/blog/</loc>
+    <lastmod>2022-12-09T15:14:51+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/tags/hello/</loc>
+    <lastmod>2022-12-09T15:14:51+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/blog/hello_world/</loc>
+    <lastmod>2022-12-09T15:14:51+05:00</lastmod>
+  </url><url>
+    <loc>https://waleedk2000.github.io/categories/</loc>
   </url>
 </urlset>

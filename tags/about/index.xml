@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My CS Blog</title>
-    <link>https://waleedk2000.github.io/</link>
-    <description>Recent content on My CS Blog</description>
+    <title>about on My CS Blog</title>
+    <link>https://waleedk2000.github.io/tags/about/</link>
+    <description>Recent content in about on My CS Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:18:44 +0500</lastBuildDate><atom:link href="https://waleedk2000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 15:18:44 +0500</lastBuildDate><atom:link href="https://waleedk2000.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://waleedk2000.github.io/page/about/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://waleedk2000.github.io/page/about/</guid>
       <description>My names Waleed. I&amp;rsquo;m a student of BS Computer Science from FAST Islamabad. I&amp;rsquo;m currently in my final year. I&amp;rsquo;ve created this blog to write about all CS concepts i&amp;rsquo;ve learned in my 4 year degree. Furthermore, i shall attempt to cover newer topics which i may learn later on after my degree.</description>
-    </item>
-    
-    <item>
-      <title>Hello_world</title>
-      <link>https://waleedk2000.github.io/blog/hello_world/</link>
-      <pubDate>Fri, 09 Dec 2022 15:14:51 +0500</pubDate>
-      
-      <guid>https://waleedk2000.github.io/blog/hello_world/</guid>
-      <description>Hello World </description>
     </item>
     
   </channel>
